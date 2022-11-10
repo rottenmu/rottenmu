@@ -3,7 +3,7 @@
 -  **Learning :** JAVA-Stack Development
 -  **Learning :** BackEnd Development
 -  **Languages :** Java,JavaScript
--  **Hobbies :** Articles & Music & Games :headphones:
+-  **Hobbies :** Read & Games & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
